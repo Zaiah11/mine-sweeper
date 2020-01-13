@@ -1,0 +1,3 @@
+exports.generateNewMap = ([width, height]) => {
+  
+}

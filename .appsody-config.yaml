@@ -1,0 +1,2 @@
+project-name: mine-sweeper-map-generator
+stack: docker.io/appsody/nodejs-express:0.4
